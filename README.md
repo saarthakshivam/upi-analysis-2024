@@ -2,9 +2,9 @@
 
 An end-to-end data analytics project analysing India's UPI payment ecosystem in 2024,
 covering data ingestion, Python-based cleaning, SQL analysis, and a Power BI dashboard.
-![Dashboard Preview](Dashboard/Screenshot 2026-04-25 205649.png)
----
 
+---
+![Dashboard Preview](Dashboard/Screenshot 2026-04-25 205649.png)
 ## Project Structure
 
 ```
