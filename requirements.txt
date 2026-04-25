@@ -1,0 +1,26 @@
+# UPI Transaction Trends Analysis 2024
+# Python dependencies
+
+# Core data
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualisation (EDA)
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.30
+
+# Jupyter
+jupyterlab==4.2.0
+ipykernel==6.29.4
+
+# Excel export
+openpyxl==3.1.2
+xlsxwriter==3.2.0
+
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.4
