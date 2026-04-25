@@ -34,7 +34,7 @@ upi-analysis-2024/
 ```
 
 ---
-
+![Dashboard Preview]("D:\Projects\UPI_analysis_2024\Dashboard\Screenshot 2026-04-25 205649.png")
 ## Data Sources
 
 | Dataset | Source | Type |
