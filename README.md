@@ -1,7 +1,7 @@
 # UPI Transaction Trends India — 2024 Analysis
 ### End-to-End Data Analytics Portfolio Project
 
-![Dashboard Preview](Dashboard/screenshots/dashboard_overview.png)
+![Dashboard Preview](Dashboard/screenshots/dashboard_overview.png.png)
 
 An end-to-end data analytics project analysing India's UPI payment ecosystem in 2024,
 covering data ingestion, Python-based cleaning, SQL analysis, and a Power BI dashboard.
