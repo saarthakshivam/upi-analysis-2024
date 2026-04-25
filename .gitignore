@@ -12,10 +12,10 @@ env/
 *.ipynb_checkpoints
 
 # Data (large files — don't push raw data to GitHub)
-data/raw/*.csv
-data/processed/*.csv
+Data/raw/*.csv
+Data/processed/*.csv
 # Exception: keep the NPCI monthly file (it's small and real)
-!data/raw/npci_monthly_2024.csv
+!Data/raw/npci_monthly_2024.csv
 
 # Power BI
 *.pbix
